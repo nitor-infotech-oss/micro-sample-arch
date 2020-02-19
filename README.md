@@ -1,5 +1,7 @@
 # Sample microservice skeleton
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/nitor-infotech-oss/micro-sample-arch.svg)](https://greenkeeper.io/)
+
 You can reffered this project as a skeletion to start microservice. This skeletion is created using jhipster which will bi-default give many production ready tool
 
 ## Getting Started
