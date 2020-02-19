@@ -1,0 +1,9 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "skill-metrics/package.json"
+      ]
+    }
+  }
+}
